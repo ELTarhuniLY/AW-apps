@@ -1,0 +1,4 @@
+User-agent:*
+Disallow:
+
+Sitemap: https://www.aw-apps.tk/sitemap.xml
